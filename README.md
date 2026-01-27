@@ -1,4 +1,4 @@
-# Synaptic Snippets (Python Playground)
+# Synaptic Snippets (Python Playground) (in progress)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active_Learning-green?style=for-the-badge)
 
