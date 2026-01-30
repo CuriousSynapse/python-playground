@@ -35,5 +35,5 @@ I have organized my scripts by category to document my learning path.
 Ensure you have Python installed. Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/CuriousSynapse/synaptic-snippets.git
-cd synaptic-snippets
+git clone https://github.com/CuriousSynapse/python-playground.git
+cd python-playground
