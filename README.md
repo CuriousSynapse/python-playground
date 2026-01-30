@@ -4,9 +4,7 @@
 
 Welcome to my **coding laboratory**. 
 
-This repository acts as a collection of my algorithmic experiments, mini-games, and utility scripts. While these projects are small in size, they represent the building blocks of my understanding of computer science concepts, Python syntax, and logic flows.
-
-> *"Big systems are built from small, well-understood components."*
+This repository acts as a collection of my algorithmic experiments, mini-games, and utility scripts. 
 
 ## Project Catalog
 
