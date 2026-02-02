@@ -28,6 +28,7 @@ I have organized my scripts by category to document my learning path.
 | :--- | :--- | :--- |
 | **[File Renamer](./tools/renamer.py)** | Batch renames files in a directory. | `os` library, file I/O manipulation. |
 | **[Password Gen](./tools/pass_gen.py)** | Creates strong random passwords. | String manipulation, ASCII constants. |
+| **[Math Sprint](./tools/math_sprint.py)** | A timed mental math trainer with randomized problems.| time module, try/except validation, for loops. |
 
 ---
 
